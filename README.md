@@ -59,7 +59,7 @@ Permite al usuario:
    git clone https://github.com/adriandiaz7/conversor-moneda.git
 Importa el proyecto en tu IDE favorito (IntelliJ, Eclipse, VSCode con soporte Java).
 
-Ejecuta la clase ConversorDeMoneda.java.
+Ejecuta la clase main.java.
 
 ⚙️ Tecnologías utilizadas
 Java 11+
@@ -70,8 +70,6 @@ Gson (Google Gson)
 
 ExchangeRate-API
 
-👥 Personas Contribuyentes
-Agradecimientos a toda persona que haya reportado bugs, sugerido mejoras o contribuido con ideas para expandir esta aplicación.
 
 👨‍💻 Personas Desarrolladoras del proyecto
 ## Autores
