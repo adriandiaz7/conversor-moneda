@@ -16,7 +16,6 @@
 - [Características y Demostración](#-características-de-la-aplicación-y-demostración)
 - [Acceso al proyecto](#-acceso-al-proyecto)
 - [Tecnologías utilizadas](#-tecnologías-utilizadas)
-- [Personas Contribuyentes](#-personas-contribuyentes)
 - [Personas Desarrolladoras del proyecto](#-personas-desarrolladoras-del-proyecto)
 - [Licencia](#-licencia)
 - [Referencias](#-referencias-readme)
@@ -28,7 +27,6 @@
 Este es un **Conversor de Moneda** desarrollado en **Java**, que utiliza la API pública de [ExchangeRate-API](https://www.exchangerate-api.com/) para consultar tasas de cambio en tiempo real.
 
 Permite al usuario:
-- La moneda base es USD.
 - Filtrar tasas de cambio para monedas específicas (ARS, BOB, BRL, USD, entre otras).
 - Realizar conversiones de una cantidad a una moneda destino.
 - Usar un menú interactivo desde la consola.
